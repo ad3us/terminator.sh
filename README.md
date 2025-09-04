@@ -1,5 +1,4 @@
 # terminator.sh
-
 ![terminator.sh](https://github.com/ad3us/terminator.sh/blob/main/ascii-art-text.png)
 
 Bash script for detecting inactive, useless, zombie processess and services.
@@ -17,6 +16,8 @@ or like this:
 ```
 $ sudo bash terminator.sh
 ```
+Video:
+![terminator.sh](https://github.com/user-attachments/assets/56e90497-cad6-4790-99e2-ef0818bf2a27)
 
 ---
 ## To-do
