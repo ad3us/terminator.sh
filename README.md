@@ -16,8 +16,9 @@ or like this:
 ```
 $ sudo bash terminator.sh
 ```
-Video:
-![terminator.sh](https://github.com/user-attachments/assets/56e90497-cad6-4790-99e2-ef0818bf2a27)
+
+### Video:
+[terminator-sh.webm](https://github.com/user-attachments/assets/c0906c3a-8c82-4bfc-9050-baecdbee974c)
 
 ---
 ## To-do
